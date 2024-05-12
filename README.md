@@ -5,6 +5,6 @@ Nesta aula aprendi:
 
 2- como proteger a minha api_key
 
-3- aprendi a configurar parâmetros do gemeni
+3- aprendi a configurar parâmetros do gemini
 
 4- aprendi a como fazer um chatbot
